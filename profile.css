@@ -1,0 +1,107 @@
+body{
+    margin: auto;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+header{
+    height: 130px;
+    background-color:#0f4c79;
+
+
+}
+#name{
+    font-size: 35px;
+    float: left;
+    color: white;
+    margin-inline-start: 5%;
+    
+   
+}
+#social{
+    margin-top: 3%;
+    float: right;
+    margin-inline-end: 5%;
+}
+
+.slogo{
+    height: 50px;
+    width: 50px;
+}
+
+a{
+    text-decoration: none
+}
+
+#image{
+        height:400px;
+        background-image: url('img/photo.png');
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        background-size: 100% 400px;
+} 
+  #img{
+    height: 330px;
+    margin-right: 49%;
+    margin-inline-start: 10%;
+    border: black solid 5px;
+ 
+   }
+
+  #mytext{
+    font-size: 50px;
+    text-align: center;
+    background-color: deepskyblue;
+    
+  }
+
+
+  #about{
+      margin-top: 100px ;
+   }
+
+   table,th,tr{
+       width: 100%;
+       margin: auto;
+       margin-block-start:5%;
+       font-size: 30px;
+       padding: 20px;
+       text-align: center;
+       border: 8px solid black;
+       border-collapse: collapse;
+      
+    }
+
+    #edu{
+        text-align: center;
+        font-size: 50px;
+        background-color: deepskyblue;
+    }
+
+
+    #skill{ 
+        text-align: center;
+        font-size: 50px;
+        background-color: deepskyblue;
+        
+    }
+
+    #skills{
+    
+        text-align: center;
+        width: 100%;
+    }
+
+    #contact{
+        text-align: center;
+        font-size: 50px;
+        background-color: deepskyblue;
+    }
+    #design{
+        text-align: center;
+        font-size: 30px;
+       
+    }
+
+
+ 
