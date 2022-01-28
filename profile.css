@@ -120,9 +120,6 @@ a{
         width: 100%;
     }
 
-  
-
-
     #contact{
         text-align: center;
         font-size: 50px;
@@ -132,8 +129,9 @@ a{
     #design{
         float: right;
         text-align: center;
-        font-size: 30px;
+        font-size: 25px;
         margin-right: 100px;
+     
        
     }
     #maping{
@@ -141,4 +139,13 @@ a{
         margin-left: 100px ;
     }
 
+    #footer{
+        text-align: center;
+        font-size: 25px;
+        margin: auto;
+        border: rgb(224, 20, 20);
+        height: 50px;
+        width: 100%;
+        margin-top: 530px;
+    }
  
