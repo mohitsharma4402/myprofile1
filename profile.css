@@ -119,6 +119,40 @@ a{
         text-align: center;
         width: 100%;
     }
+    #container{
+        height: 500px;
+        width: 100%;
+    }
+    #subcontainer1{
+        height: 300px;
+        width: 48%;
+    }
+    #subcontainer1 > img{
+        width: 100%;
+    }
+    #project_button{
+        color: white;
+        background-color: lime;
+        margin-top: 1%;
+        margin-left: 45%;
+        height: 28px;
+        width: 100px;
+    }
+    #subcontainer2{
+        margin-top: -21%;
+        float: right;
+        height: 300px;
+        width: 48%;
+    }
+    #subcontainer2 > img{
+        width: 100%;
+    }
+    #project{
+        text-align: center;
+        font-size: 50px;
+        background-color: black;
+        color: floralwhite;
+    }
 
     #contact{
         text-align: center;
